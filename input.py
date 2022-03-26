@@ -1,0 +1,5 @@
+name = input('What is your name?\n')
+degree = input('What is your last degree title?\n')
+print("Here are the details you entered:")
+print (name)
+print(degree)

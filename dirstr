@@ -1,0 +1,4 @@
+stuff = 'Hello world'
+type(stuff)
+#<class 'str'>
+dir(stuff)
